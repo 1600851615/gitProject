@@ -1,0 +1,12 @@
+ ./redis-cli -h  192.168.216.128 -p 6379 -a 123456
+http://blog.csdn.net/dehu_zhou/article/details/52881587
+%appdata%\microsoft\templates
+%USERPROFILE%\AppData\Roaming\Microsoft\Templates
+http://182p342t04.iask.in/
+a1600851615@gmail.com
+http://api.xfsub.com/index.php?url=http://v.youku.com/v_show/id_XMzAxMjUyOTg2MA==.html
+https://pan.baidu.com/share/home?uk=
+syq15171242534..
+565404
+change_on_install as sysdba
+29b419aeb6d413a5
